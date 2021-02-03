@@ -1,8 +1,12 @@
 
 
+
+
 ## Project setup
-```npm i //É necessario instalar a biblioteca node_modules
 ```
+npm i  // É necessario instalar a bibliooteca node_modules
+```
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
