@@ -1,10 +1,8 @@
 
 
 ## Project setup
+```npm i //É necessario instalar a biblioteca node_modules
 ```
-npm install express  // É necessario instalar a bibliooteca node_modules
-```
-
 ### Compiles and hot-reloads for development
 ```
 npm run serve
@@ -21,4 +19,4 @@ npm run lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Configuration Reference](https://cli.vuejs.org/config/). 
